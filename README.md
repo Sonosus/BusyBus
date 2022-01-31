@@ -1,5 +1,7 @@
-# Title
+# BusyBus
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+
+Bus board getting busy? Running out of sockets and just have a few more modules to connect before your case is full? Enter BusyBus, a tiny 5-socket extension bus board for embiggening your system just that little bit more.
 
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
